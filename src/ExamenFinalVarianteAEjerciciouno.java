@@ -19,4 +19,5 @@ public class ExamenFinalVarianteAEjerciciouno {
         }
         System.out.println("Resultado: " + resultado);
     }
+
 }
